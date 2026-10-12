@@ -1,0 +1,4 @@
+if the file dosent run in vs code....go to terminal and type
+ python "address of the file"
+if any issue related to flask...type...
+python -m pip install flask
